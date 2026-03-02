@@ -1,19 +1,22 @@
-# Arquitectura de Computadores - Universidad Santiago de Cali
+# 🖥️ Arquitectura de Computadores - Universidad Santiago de Cali
 
-Este proyecto es una aplicación web desarrollada para cumplir con las actividades 5 y 6 del curso de Arquitectura de Computadores de la Universidad Santiago de Cali, en el programa de Ingeniería de Sistemas Virtual.
+Este proyecto es una aplicación web desarrollada para cumplir con las **actividades 5 y 6** del curso de **Arquitectura de Computadores** de la Universidad Santiago de Cali, en el programa de **Ingeniería de Sistemas Virtual**.
 
-## Descripción
-La aplicación permite traducir código ensamblador MIPS a código máquina, visualizar jerarquías de memoria y comparar diferentes tipos de memoria. Además, incluye simulaciones de registros, memoria y un contador de programa (PC).
+## 📜 Descripción
+La aplicación permite:
+- 🛠️ Traducir código ensamblador **MIPS** a código máquina.
+- 📊 Visualizar jerarquías de memoria y comparar diferentes tipos de memoria.
+- 🔄 Simular registros, memoria y un contador de programa (**PC**).
 
-## Tecnologías utilizadas
-- React
-- Vite
-- JavaScript
-- CSS
+## 🛠️ Tecnologías utilizadas
+- ⚛️ **React**
+- ⚡ **Vite**
+- 📜 **JavaScript**
+- 🎨 **CSS**
 
-## Despliegue
-El proyecto está desplegado en GitHub Pages y puede ser accedido desde el siguiente enlace:
-[GitHub Pages](https://cristianbedoya64.github.io/arquitectura-computadores-usc/)
+## 🌐 Despliegue
+El proyecto está desplegado en **GitHub Pages** y puede ser accedido desde el siguiente enlace:
+[🔗 GitHub Pages](https://cristianbedoya64.github.io/arquitectura-computadores-usc/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
